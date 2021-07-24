@@ -1,4 +1,4 @@
-# real_app_1
+# Flutter_Expense_Manager
 
 A new Flutter project.
 
