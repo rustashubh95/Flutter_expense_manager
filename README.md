@@ -1,6 +1,6 @@
 # Flutter_Expense_Manager
 
-A new Flutter Project. Created Fltter App for storing expenses of the user and showing them in chart form. 
+A new Flutter Project. Created Flutter App for storing expenses of the user and showing them in chart form. 
 
 ## Getting Started
 
